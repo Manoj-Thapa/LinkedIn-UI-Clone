@@ -3,7 +3,7 @@ const users = [
     id: 1,
     name: "Manish Thapa",
     headline: "Upcoming Engineer at *****",
-    profile: "https://tinyurl.com/manishthapa",
+    profile: "https://tinyurl.com/manishthapaprofile",
     desc: `Dear Connections, I am very much delighted to share that I have received a job offer for the Systems Engineer role at Infosys.`,
     image: "https://tinyurl.com/manishthapajob",
     date: "4h",
